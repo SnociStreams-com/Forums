@@ -1,4 +1,4 @@
-#header {
+header {
 	background-color: #1B1636;
 	color: aliceblue;
 	margin-top: -35px;
@@ -15,7 +15,30 @@
 	font-size: 20px;
 	padding-bottom: 10px;
 }
-#page {
+#navbar {
+	font-family: "Abolition Thin";
+	background-color: #202777;
+	margin-top: -20px;
+	margin-left: -7px;
+	margin-right: -7px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.navbutton {
+	text-decoration: none;
+	background-color: #202777;
+	color: aliceblue;
+	border-style: solid;
+	border-width: 3px;
+	border-color: #0E2468;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	padding-left: 15px;
+	padding-right: 15px;
+	margin-left: -3px;
+	margin-right: -3px;
+}
+body {
 	background-color: #1E1A4B;
 	font-family: Bahnschrift;
 	color: aliceblue;
@@ -24,7 +47,7 @@
 	padding-left: 10px;
 	padding-right: 10px;
 }
-#footer {
+footer {
 	background-color: #1B1636;
 	color: aliceblue;
 	margin-left: -8px;
